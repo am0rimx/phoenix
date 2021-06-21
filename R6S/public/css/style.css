@@ -7,11 +7,11 @@ body {
 }
 
 a {
-  color: rgba(247, 142, 4, 0.8);
+  color: rgba(66, 3, 79);
 }
 
 a:hover {
-  color: rgba(247, 142, 4, 0.8);
+  color: rgba(66, 3, 79);
   text-decoration: none;
 }
 
@@ -35,7 +35,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   border-radius: 3px;
   right: 15px;
   bottom: 15px;
-  background: rgba(201, 123, 21, 0.8);
+  background: rgbargba(66, 3, 79);
   color: #fff;
   transition: display 0.5s ease-in-out;
   z-index: 99999;
